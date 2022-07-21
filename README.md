@@ -1,0 +1,1 @@
+A vision based crowd identification and adverticement classification system to be used with adeverticement displays established in public places

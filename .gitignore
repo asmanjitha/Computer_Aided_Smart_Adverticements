@@ -1,0 +1,6 @@
+# This .gitignore file should be placed at the root of the project directory
+#
+#
+/GenderClassifier/input/
+/AgeClassifier/Dataset/
+/GenderClassifier/input
